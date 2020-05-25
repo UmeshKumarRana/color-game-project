@@ -4,4 +4,4 @@
 * This is basically a game project that you would love to see.
 This is made using HTML, CSS and Javascript.
 
-## For viewing the project open the colorGame.html file in a browser.
+# For viewing the project open the colorGame.html file in a browser.
